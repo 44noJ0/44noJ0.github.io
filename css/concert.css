@@ -1,0 +1,477 @@
+/*---   #concerts   ------------------------------*/
+#concerts {
+	width: 900px;
+	height: 1540px;
+	margin-bottom: 30px;
+	margin: 0 auto;
+	position:relative;
+	//background-color : gray;
+}
+
+#concerts #title{
+	font-size: 40px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: -40px;
+}
+
+#concerts h2{
+	font-size: 40px;
+	text-align: center;
+	background-color: #fff;
+}
+
+#concerts h2 .small{
+	font-size: 13px;
+}
+
+#concerts span{
+	color: #ff7b4f
+}
+
+/*---   #contents1   ------------------------------*/
+#contents1{
+	width: 880px;
+	height: 1400px;
+	border: 2px solid #ff7b4f;
+    margin-top: 100px;
+    //margin-left: 1px;
+	//margin-bottom: auto; 
+	padding: 28px 10px 0 10px;
+	position: relative;
+	//background-color : orange ; //ボックス識別用
+}
+
+#contents1 h2{
+	position: absolute;
+　　　left: 90px; 
+	top: -38px;
+	//background-color : lightgreen ; //ボックス識別用
+}
+#contents1 h7{
+	position: relative;
+	//background-color : lightgreen ; //ボックス識別用
+}
+
+
+#contents1 #info1{
+	width: 800px;
+	position: absolute;
+	top: 480px;
+	left:60px;
+	//background-color : blue ; //ボックス識別用
+}
+
+#contents1 #info2{
+	width:800px;
+	position: absolute;
+	top : 780px;
+	left:60px;
+	//background-color: lightgreen ; //ボックス識別用
+}
+
+#contents1 #info1 #subTitle1{
+	position: absolute;
+	top: 3px;
+	//background-color : lightgreen ; //ボックス識別用
+}
+
+#contents1 #info1 #subTitle1 h6{
+	font-size: 20px;
+	line-height: 40px;
+	/*margin-top: 10px;
+	margin-left: 20px; */
+	//background-color : red;
+}
+#contents1 #info2 #subTitle2{
+	top: 3px;
+	left: 20px;
+	//background-color : lightgreen ; //ボックス識別用
+}
+#contents1 #info2 #subTitle2 h6{
+	font-size: 20px;
+	line-height: 40px;
+	/*margin-top: 10px;
+	margin-left: 20px; */
+	//background-color : red;
+}
+
+#contents1 #info2 #HeadA{
+	position: absolute;
+	left:420px;
+	top:30px;
+	font-size: 20px;
+	//background-color : red;
+}
+#contents1 #info2 #TextA{
+	width:390px;
+	height:300px;
+	position: absolute;
+	left:420px;
+	top: 80px;
+	//background-color:green;
+}
+
+#contents1 #info2 #TextA p{
+	font-size: 13.5px;
+}
+
+#contents1 #info2 #HeadB{
+	position: absolute;
+	left:420px;
+	top:360px;
+	font-size: 20px;
+	//background-color : red;
+}
+#contents1 #info2 #TextB{
+	width:410px;
+	top:410px;
+	//height:200px;
+	position: absolute;
+	left:420px;
+	font-size: 13.5px;
+	//background-color : green;
+}
+
+
+#contents1 #info1 p{
+	font-size: 25px;
+	line-height: 40px;
+	margin-left: 100px; 
+	display: inline-block;
+}
+
+
+#contents1 #info1 caution{
+	font-size: 15px;
+        margin-left: 10px;
+ 	/* margin-left: 360px; */
+}
+
+#contents1 #info1 h3{
+	font-size: 15px;
+	margin-top: 20px; 
+	margin-left: 600px;
+}
+
+#contents1 #info1  h3 a{
+	color: black;
+	/*text-decoration: underline;*/
+}
+
+#contents1 .mrg{
+	margin-top: 23px;
+}
+
+#contents1 #cmg{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top : 20px;
+}
+
+#contents1 #info2 #cmg1{
+	display: block;
+	width: 400px;
+	height: 180px;
+	position:absolute;
+	top:90px;
+	float: left;
+
+}
+
+
+#contents1 #info2 #cmg2{
+	display: block;
+	width: 390px;
+	height: 246px;
+	position:absolute;
+	top:350px;
+	left:0px;
+}
+
+/*---   #contents2   ------------------------------*/
+#contents2{
+	width: 880px;
+	height: 1350px;
+	border: 2px solid #ff7b4f;
+	position: absolute;
+	/* margin-top: auto;
+    margin-left: -15px; 
+	margin-bottom: auto; */
+	top : 130px;
+	left : 0px;
+	padding: 28px 10px 0 10px;
+	//background-color : lightgreen ; //ボックス識別用
+}
+
+#contents2 h2{
+	position: absolute;
+	top: -38px;
+	left: 240px; 
+}
+
+#contents2 #info #cmg{
+	display: block;
+	width: 330px;
+	float: right;
+}
+
+#contents2 #info{
+	margin-top: 30px;
+	margin-bottom: 100px;
+	position: relative;
+	width: 850px;
+}
+
+#contents2 #info #subTitle{
+	position: absolute;
+	top: 3px;
+	left: 50px;
+	//background-color : lightgreen ; //ボックス識別用
+}
+
+#contents2 #info #subTitle h6{
+	font-size: 20px;
+	line-height: 40px;
+	/*margin-top: 10px;
+	margin-left: 20px; */
+}
+
+
+#contents2 #info #first{
+	margin-bottom: 85px;
+}
+
+#contents2 #info #title{
+	font-size:15px;
+}
+#contents2 #info #text1{
+	position:relative;
+	margin-left:20px;
+	margin-top:40px;
+	width:55%;
+	//background:green;
+}
+
+#contents2 #info #text2{
+	position:relative;
+	margin-left:23px;
+	margin-top:50px;
+	width:100%;
+	//background:green;
+}
+#contents2 #info #text3{
+	position:relative;
+	margin-left:20px;
+	margin-top:60px;
+	width:100%;
+	//background:green;
+}
+
+#contents2 #info #text4{
+	position:relative;
+	margin-left:20px;
+	margin-top:60px;
+	width:100%;
+	//background:yellow;
+}
+
+#contents2 #info #text5{
+	position:relative;
+	margin-left:20px;
+	margin-top:30px;
+	width:100%;
+	//background:yellow;
+}
+
+#contents2 #info #text1 p{
+	position:relative;
+	font-size: 27px;
+	line-height: 45px;
+	margin-left: 45px; 
+	display: inline-block;
+	text-indent: -4em;
+	padding-left: 3em;
+}
+
+#contents2 #info #text2 p{
+	position:relative;
+	font-size: 27px;
+	line-height:43px;
+	margin-left: 41px; 
+	display: inline-block;
+	text-indent: -4em;
+	padding-left: 3em;
+	//text-align:center;
+}
+
+#contents2 #info #text3 p{
+	font-size: 15px;
+	margin-left:60px; 
+	line-height:27px;
+	position:relative;
+	text-indent: -4em;
+	padding-left: 3em;
+	//text-align:center;
+}
+
+#contents2 #info #text4 p{
+	font-size: 27px;
+	line-height:43px;
+	margin-left: 43px; 
+	position:relative;
+	display: inline-block;
+	text-indent: -4em;
+	padding-left: 3em;
+	//text-align:center;
+}
+#contents2 #info #text5 p{
+	font-size: 15px;
+	line-height:27px;
+	margin-left:60px; 
+	position:relative;
+	display: inline-block;
+	text-indent: -4em;
+	padding-left: 3em;
+	//text-align:center;
+}
+#contents2 #info img{
+	position:relative;
+	margin-right:10px;
+	width:310px;
+	height:430px;
+	float:right;
+}
+#contents2 #info font{
+	font-size: 21px;
+}
+
+#contents2 #caution{
+	font-size: 15px;
+/*	margin-top: 32px;
+	margin-left: 360px; */
+}
+
+#contents2 #info h4{
+	font-size: 20px;
+	position:relative;
+	margin-top: 10px;
+	margin-left: 590px; 
+	//text-align : right;
+}
+
+#contents2 #info h3{
+	position:relative;
+	text-align:right;
+	font-size: 30px;
+	margin-right: 10px;
+	margin-top: 90px;
+}
+#contents2 #info h3 a{
+	position:relative;
+	color:black;
+	text-align:right;
+	font-size: 30px;
+	margin-right: 10px;
+}
+
+#contents2 h3 span{
+	font-size: 30px;
+	margin-right: 10px; 
+}
+
+#contents2 #cnd{
+	width: 335px;
+	margin: 5px 15px 0px 20px;
+	float: left;
+}
+
+
+
+#contents2 #cndText{
+	font-size: 15px;
+	line-height: 25px;
+	/*letter-spacing: -0.3px;*/
+	margin: 15px 5px 40px 10px;
+}
+
+#contents2 #ticketInfo{
+	font-size: 20px;
+	line-height: 32px;
+	margin: 10px 0 30px 60px;
+}
+
+#contents2 #ticketInfo #caution_t{
+	font-size: 15px;
+	margin-left: 0px;
+	margin-bottom: 120px;
+}
+
+#contents2 #contact {
+	font-size: 20px;
+	line-height: 32px;
+	margin-top: 18px;
+	margin-left: 60px;
+}
+
+#contents2 #contact b{
+	text-decoration: underline;
+}
+
+#contents2 #past{
+	font-size: 30px;
+	margin-top: 80px; 
+	margin-left: 450px;
+}
+
+#contents2  #info a{
+	color: blue;
+	/*text-decoration: underline;*/
+}
+
+
+/*---   モーダル   ------------------------------*/
+.open {
+    display: block;
+    background-color: #4169e1;
+    color: #ffffff;
+}
+.open:hover {
+    opacity: 0.8;
+}
+#grayLayer {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #555555;
+    opacity: 0.50;
+    filter: alpha(opacity=50);
+}
+#overLayer {
+    display: none;
+    position: fixed;
+    top: calc((100% - 65px) / 2 );/*表示したい画像の縦幅のサイズを100%から引いてる*/
+    top: -webkit-calc((100% - 550px) / 2 );/*表示したい画像の縦幅のサイズを100%から引いてる*/
+    left: 37.5%;
+    margin-left: -225px; /*表示したい画像の横幅の半分のサイズ*/
+	width:35%;
+	height:50%;
+}
+a.close {
+    min-width: 50px;
+    color: #ffffff;
+    display: none;
+    position: fixed;
+    top: calc((100% - 605px) / 2 );
+    top: -webkit-calc((100% - 620px) / 2 );
+    left: 50%;
+    margin: 10px 0 0 162px;
+}
+
+.openimg {
+	width: 100%;
+}

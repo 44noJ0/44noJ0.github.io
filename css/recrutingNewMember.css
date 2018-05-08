@@ -1,0 +1,155 @@
+/*---   #recrutingNewMembers   ------------------------------*/
+#recrutingNewMembers {
+	width: 900px;
+	/*height: 1020px;*/
+	margin: 0 auto;
+}
+
+#recrutingNewMembers span{
+	color: #ff7b4f;
+}
+
+#recrutingNewMembers span .small{
+	font-size: 20px;
+}
+
+#recrutingNewMembers h2{
+	font-size: 40px;
+	text-align: center;
+	margin: 30px 0;
+}
+
+#recrutingNewMembers h3{
+	font-size: 28px;
+	margin-top: 60px;
+}
+
+#recrutingNewMembers a{
+	color: blue;
+	text-decoration: underline;
+}
+
+#recrutingNewMembers h4{
+	font-size: 24px; 
+	margin-top: 10px; 
+}
+
+#recrutingNewMembers p{
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+#recrutingNewMembers img{
+	width: 520px;
+	/*margin-bottom: 20px;*/
+}
+
+#recrutingNewMembers .contents1 img{
+	width: 370px;
+}
+
+#recrutingNewMembers #last{
+	width: 650px;
+}
+
+#recrutingNewMembers #spr{
+	position: relative;
+}
+#recrutingNewMembers #smm{
+	position: relative;
+}
+#recrutingNewMembers #atm{
+	position: relative;
+}
+#recrutingNewMembers #wnt{
+	position: relative;
+}
+
+#recrutingNewMembers .contents1{
+	margin-top: 97px;
+	position: absolute;
+	left: 530px;
+}
+
+#recrutingNewMembers .contents2 img{
+	width: 445px;
+}
+
+#recrutingNewMembers .contents2 .contents3{
+	position: absolute;
+	left: 455px;
+}
+
+#recrutingNewMembers #spr{
+	margin-top: 30px;
+}
+
+#recrutingNewMembers #smm{
+	margin-top: 30px;
+}
+
+#recrutingNewMembers #atm{
+	margin-top: 30px;
+}
+
+#recrutingNewMembers #wnt{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+#recrutingNewMembers #spr h4{
+	margin-top: 30px;
+}
+
+#recrutingNewMembers #smm h4{
+	margin-top: 30px;
+}
+
+#recrutingNewMembers #atm h4{
+	margin-top: 30px;
+}
+
+#recrutingNewMembers #wnt h4{
+	margin-top: 30px;
+}
+
+#recrutingNewMembers #spr h5{
+	font-size: 40px;
+	color: #FC73AD;
+	margin-bottom: -60px;
+}
+
+#recrutingNewMembers #smm h5{
+	font-size: 40px;
+	color: #0FA30F;
+	margin-bottom: -35px;
+}
+
+#recrutingNewMembers #atm h5{
+	font-size: 40px;
+	color: #D16C1E;
+	margin-bottom: -60px;
+}
+
+#recrutingNewMembers #wnt h5{
+	font-size: 40px;
+	color: #6ACCE0;
+	margin-bottom: -40px;
+}
+
+#recrutingNewMembers #spr p{
+	margin-bottom: 0;
+}
+
+#recrutingNewMembers #smm p{
+	margin-bottom: 0;
+}
+
+#recrutingNewMembers #atm p{
+	margin-bottom: 0;
+}
+
+#recrutingNewMembers #wnt p{
+	margin-bottom: 0;
+}
+

@@ -1,0 +1,51 @@
+/*---   #introductions   ------------------------------*/
+#introductions {
+	width: 870px;
+	/*height: 1020px;*/
+	margin: 30px auto;
+}
+
+#introductions #title{
+	font-size: 40px;
+	text-align: center;
+	/*margin-top: 20px;*/
+	/*margin-bottom: -40px;*/
+}
+
+#introductions #title .color{
+	color: #ff7b4f;
+}
+
+#introductions #contents1{
+	font-size: 18px;
+	/*font-weight: bold;*/
+}
+
+#introductions #contents1 img{
+	width: 850px;
+}
+
+#introductions #contents1 h3{
+	font-size: 23px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#introductions #contents1 #contents2 img{
+	width: 600px;
+	margin-left: 125px;
+	margin-top: 30px; 
+}
+
+#introductions #contents1 p{
+	margin-top: 20px; 
+}
+
+#introductions #contents1 #spacing{
+	letter-spacing: -0.2px;
+}
+
+#introductions #contents1 #contents2 #lastP{
+	margin-bottom: 120px; 
+}
+

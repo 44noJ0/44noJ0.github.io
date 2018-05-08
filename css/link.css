@@ -1,0 +1,76 @@
+/*---   #links   ------------------------------*/
+#links {
+	width: 900px;
+	height: 1600px;
+	margin: 0 auto;
+}
+
+#links h2{
+	margin-top: 20px;
+	font-size: 40px;
+	text-align: center;
+}
+
+#links h3{
+	margin-top: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+#links h3 .small{
+	font-size: 22px;
+}
+
+#links dl{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#links dt{
+	margin-top: 20px;
+}
+
+#links a{
+	color: black;
+	height: 10px;
+}
+
+#links a:hover{
+	text-decoration: underline;
+}
+
+#links .color {
+	color: #ff7b4f;
+}
+
+#links #orange span{
+	color: #FDBBA8;
+}
+
+#links #orange dd{
+	color: #ff7b4f;
+}
+
+#links #red span{
+	color: #FF7FBF;
+}
+
+#links #red dd{
+	color: #FFADD6;
+}
+
+#links #blue span{
+	color: #A9FAFE;
+}
+
+#links #blue dd{
+	color: #11709A;
+}
+
+#links #green span{
+	color: #B4FDAB;
+}
+
+#links #green dd{
+	color: #054F19;
+}

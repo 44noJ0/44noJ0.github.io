@@ -1,0 +1,62 @@
+/*---   #members   ------------------------------*/
+#members {
+	width: 800px;
+	height: 900px;
+	margin: 0 auto;
+}
+
+#members h2{
+	font-size: 40px;
+	text-align: center;
+	margin: 20px 0;
+}
+
+#members h2 .color{
+	color: #ff7b4f;
+}
+
+#members i1 img{
+	width: 200px;
+	margin: 30px;
+}
+
+#members i2 img{
+	width: 200px;
+	margin: 30px;
+}
+
+#members i3 img{
+	width: 200px;
+	margin: 30px;
+}
+
+#members i4 img{
+	width: 200px;
+	margin: 30px;
+}
+
+#members i5 img{
+	width: 200px;
+	margin: 30px;
+}
+
+#members i6 img{
+	width: 200px;
+	margin: 30px;
+}
+
+#members i7 img{
+	width: 200px;
+	margin: 30px;
+}
+
+#members i8 img{
+	width: 200px;
+	margin: 30px 30px 30px 0px;
+}
+
+
+#members i9 img{
+	width: 200px;
+	margin: 30px 0px 30px 30px;
+}

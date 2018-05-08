@@ -1,0 +1,211 @@
+/*---   共通部分・クラス   ------------------------------*/
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "ヒラギノ角ゴ ProN","Hiragino Kaku Gothic ProN";
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+/*---   #header   ------------------------------*/
+#header {
+	width: 900px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#header #logos{
+	position: absolute;
+	top: 13px;
+	left: 586px;
+}
+
+/*---   #gNavi   ------------------------------*/
+#gNavi {
+	padding-top: 15px;
+}
+
+#gNavi ul {
+	width: 900px;
+	height: 80px;
+	margin: 0 auto;
+	list-style: none;
+}
+
+#gNavi ul a li{
+	width: 147.65px;
+	height: 80px;
+	border-left: 1px solid #ff7b4f;
+	border-right: 1px solid #ff7b4f;
+	float: left;
+}
+
+#gNavi ul a #first{
+	border-left: 2px solid #ff7b4f;
+}
+
+#gNavi ul a #last{
+	border-right: 2px solid #ff7b4f;
+}
+
+#gNavi ul a li p{
+	padding-top: 30px;
+
+	font-size: 20px;
+	text-align: center;
+	line-height: 16px;
+	font-weight: bold;
+	color: black;
+}
+
+#gNavi .small {
+	font-size: 12px;
+	color: #ff7b4f;
+	/*margin-left: 20px;*/
+}
+
+/*---   #Slideshow   ------------------------------*/
+
+.slideshow {
+    overflow: hidden;
+    position: relative;
+    min-width: 960px;
+    height: 500px;
+}
+.slideshow img {
+    display: none;
+    position: absolute;
+	margin-top:25px;
+    /*left: 50%;*/
+    /*margin-left: -800px;*/
+}
+
+/* JavsScript 無効時 */
+.no-js .slideshow img:first-child {
+    display: inline;
+}
+
+
+/*---   #mainBox   ------------------------------*/
+#mainBox {
+	width: 900px;
+	margin: 0 auto;
+
+}
+
+#mainBox h2 img{
+	width: 900px;
+	height: 550px;
+	position: absolute;
+	top: 200px;
+}
+
+#mainBox #news {
+    width: 650px;
+	height: 110px;
+    margin-top: 80px;
+    position: relative;
+}
+
+#mainBox #news img{
+	width: 650px;
+	margin-top: 10px;
+	position: absolute;
+}
+
+#mainBox #news dt{
+	
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#mainBox #news #title {
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 70px;
+}
+
+#mainBox #news #title days {
+color: #ff7b4f;
+}
+
+#mainBox #topic {
+	width: 900px;
+	height: 450px;
+	margin-top: 20px;
+	margin-left:10px;
+    margin-bottom: 200px;
+	position: relative;
+}
+
+#mainBox #topic img{
+	width: 650px;
+	height: 400px;
+	margin: 10px 0;
+	position: absolute;
+}
+
+#mainBox #topic #concert img{
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top: 40px;
+	left: 60px;
+}
+
+#mainBox #topic #newFace img{
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top:280px;
+	left:60px;
+}
+
+#mainBox #topic #blogImage img{
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top: 520px;
+	left:60px;
+}
+
+#mainBox #topic #topicIllustration
+ img{
+	width: 220px;
+	height: 190px;
+
+	position: absolute;
+	top: 208px;
+	left: 390px;      
+}
+
+#SNS {
+	position: relative;
+	margin-top: 40px;
+	margin-left: 550px;
+        
+}
+
+
+/*---   #footer   ------------------------------*/
+#footer {
+    width: 900px;
+	margin: 0 auto;
+	margin-top:350px;
+}
+
+#footer #copyRight {
+	background-color: #000;
+	width: 900px;
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+	line-height: 20px;
+	font-weight: normal;
+	margin-top: -6px;
+}
+
+

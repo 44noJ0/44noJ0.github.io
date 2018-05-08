@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+    <loc>http://geiko-oke.com</loc>
+    <lastmod>2017-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+</url>
+
+<url>
+    <loc>http://geiko-oke.com/concert.html</loc>
+    <lastmod>2017-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+</url>
+
+<url>
+    <loc>http://geiko-oke.com/introduction.html</loc>
+    <lastmod>2017-04-01</lastmod>
+    <changefreq>yealy</changefreq>
+</url>
+
+<url>
+    <loc>http://6013.teacup.com/majima/bbs</loc>
+    <changefreq>monthly</changefreq>
+</url>
+
+<url>
+    <loc>http://geiko-oke.com/link.html</loc>
+    <lastmod>2017-04-07</lastmod>
+    <changefreq>yealy</changefreq>
+</url>
+
+<url>
+    <loc>http://geiko-oke.com/calendar.html</loc>
+    <lastmod>2017-01-16</lastmod>
+    <changefreq>never</changefreq>
+</url>
+
+<url>
+    <loc>http://geiko-oke.com/wiki/member.html</loc>
+    <lastmod>2017-03-19</lastmod>
+    <changefreq>yealy</changefreq>
+</url>
+
+<url>
+    <loc>https://docs.google.com/forms/d/e/1FAIpQLSewiVzVnwoappmlIJp1ZLMVPPVdDov9vxZjcBK12QEZyXLEtw/viewform?c=0&w=1</loc>
+    <lastmod>2017-04-03</lastmod>
+    <changefreq>never</changefreq>
+</url>
+
+<url>
+    <loc>http://geiko-oke.com/recrutingNewMember.html</loc>
+    <lastmod>2017-01-10</lastmod>
+    <changefreq>yealy</changefreq>
+
+</url>
+<url>
+    <loc>http://geiko-oke.com/recrutingNewMemberForApril.html</loc>
+    <lastmod>2017-04-01</lastmod>
+    <changefreq>yealy</changefreq>
+
+</url>
+
+<url>
+    <loc>http://geiko-oke.com/concertInThePast.html</loc>
+    <lastmod>2017-01-10</lastmod>
+    <changefreq>yealy</changefreq>
+
+</url>
+</urlset>

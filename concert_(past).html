@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+	  <meta charset="UTF-8">
+	  <link rel="stylesheet" type="text/css" href="css/main.css">
+	  <link rel="stylesheet" type="text/css" href="css/concert-(past).css">
+	  <title>演奏会情報</title>
+	  <script src="./js/vendor/jquery-1.10.2.min.js"></script>
+	  <script src="./js/modal.js"></script>
+	</head>
+
+	<body>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.8";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+
+		<div id="wrapper">
+			<div id="header">
+			  <div id="logos">
+				<a href="https://twitter.com/geiko_oke"><img src="images/logoTwitter.png" width="80"></a>
+				<a href="https://ja-jp.facebook.com/geikouoke/"><img src="images/logoFB.png" width="64"></a>
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLSewiVzVnwoappmlIJp1ZLMVPPVdDov9vxZjcBK12QEZyXLEtw/viewform?c=0&w=1"><img src="images/logoMail.png" width="72"></a>
+				<a href="wiki/member.html"><img src="images/logoKey.png" width="64"></a>
+			  </div>
+			  <h1><img src="images/headImage.png"></h1>
+		    </div>
+			<div id="gNavi">
+			  <ul>
+				<a href="index.html"><li id="first"><p>Home<br><span class="small">home</span></p></li></a>
+				<a href="concert.html"><li><p>演奏会情報<br><span class="small">concert</span></p></li></a>
+				<a href="introduction.html"><li><p>団体紹介<br><span class="small">about us</span></p></li></a>
+				<a href="http://6013.teacup.com/majima/bbs"><li><p>掲示板<br><span class="small">BBS</span></p></li></a>
+				<a href="link.html"><li><p>リンク<br><span class="small">link</span></p></li></a>
+				<a href="calendar.html"><li id="last"><p>練習日程<br><span class="small">schedule</span></p></li></a>
+			  </ul>
+			</div>
+		</div>
+
+		<div id="concerts">
+			<h2 id="title"><span class="color">【　 </span>演奏会情報<span class="color"> 　】</span></h2>
+			<div id="contents1">
+				<h2><span><span class="small">■</span>■</span>平成29年度学内演奏会in伊都<span>■<span class="small">■</span></span></h2>
+				<img src="images/gakunai29web.png" id="cmg">
+				<div id="info1">
+				  <div id="subTitle1">
+					<h6>日　時：</h6>
+					<h6>会　場：</h6>
+					<h6>指　揮：</h6>
+					<h6>入場料：</h6>
+					<h6>曲　目：</h6>
+				  </div>
+					 <p>平成29年11月25日(土) 13:30開場 14:30開演</p><br>
+					 <p>九州大学伊都キャンパス 椎木講堂</p><br>
+					 <p>松本 孝哉・後藤 柊 (学生指揮者)</p><br>
+					 <p>無料</p><br>
+					 <p>交響詩「フィンランディア」 / シベリウス<br>バレエ組曲「青銅の騎士」より / グリエール<br>「小組曲」より 小舟にて, 行列  / ドビュッシー　ほか</p>
+					 <br>
+				     <br>
+				</div>
+				
+				<div id="info2">
+					<div id="subTitle2">
+						<h6>アクセス:</h6>
+					</div>
+					<br><br>
+					<a href="images/itocampus_access.jpg" class="open"><img src="images/itocampus_access.jpg" id="cmg1"></a>
+					<div id="HeadA">
+						公共交通機関でお越しの方
+					</div>
+					<br>
+					<div id="TextA">
+						<p>博多駅から天神を経由する伊都キャンパス行きの西鉄バス(行先番号K)がございます。
+						   地下鉄空港線から学研都市駅で下車し、学研都市駅前バス停から伊都キャンパス行の昭和バスの利用も可能です。どちらも、ビッグオレンジ前でお降りください。
+						   <br><br>
+						   西鉄バスをご利用の方は、福岡市内1日フリー乗車券(900円)がお得です。ご利用方法などの詳細は西鉄(にしてつ)くらしネットをご覧ください。
+						   <br><br>
+						   <a href="http://www.nishitetsu.jp/bus/jyousha/cityfree/">西鉄(にしてつ)くらしネット-バス情報-お得な乗車券-福岡市内1日フリー乗車券</a> : 外部サイト
+						</p>
+					</div>
+					<br>
+					<a href="images/gakunai_chuushajou.jpg" class="open"><img src="images/gakunai_chuushajou.jpg" id="cmg2"></a>
+					<div id="HeadB">
+						自家用車 自転車でお越しの方
+					</div>
+					<br>
+					<div id="TextB">
+						<p>伊都キャンパス構内に一般駐車場(入構料300円)及び駐輪場(無料)がございます。<br>
+							駐車場は椎木講堂前交差点を左折、ゲートを通過して右手にございます。<br>
+							駐輪場は交差点を左折してすぐ左手にございます。
+							<br><br>
+							九州大学伊都キャンパス椎木講堂の詳細は<a href="http://shiiki-hall.kyushu-u.ac.jp/access/">こちら</a>(九州大学 椎木講堂-アクセス : 外部サイト)をご覧ください。<br>
+						</p>
+					</div>
+				</div>
+			</div> 
+
+
+			<div id="contents2">
+				<h2><span><span class="small">■</span>■</span>第48回定期演奏会<span>■<span class="small">■</span></span></h2>
+				 <!-- ポスター画像の挿入 未定なのでコメントアウト <a href="images/posterImage.png" class="open"><img src="images/posterImage.png" id="cmg"></a> -->
+				<div id="info">
+					<div id="subTitle">
+						<h6 >日　時：</h6>
+						<h6>会　場：</h6>
+						<h6>入場料：</h6>
+						<h6>指　揮：</h6>
+						<h6>曲　目：</h6>
+					</div>
+					<p>2018年6月2日(土) 13:00開場 14:00開演</p> <br>
+					<p>アクロス福岡 福岡シンフォニーホール</p><br>
+					<p>1,000円（未就学児無料)</p><br>
+					<p>尾崎 晋也</p><br>
+					<p>交響詩「死の舞踏」/ サン=サーンス<br>交響詩「禿山の一夜」/ ムソルグスキー(R=コルサコフ編)<br>交響的舞曲 / ラフマニノフ <br></p><br>
+					
+					<br>
+					<h3><a href="concertInThePast.html">過去の定期演奏会はこちら！</a></h3>
+				</div>
+			</div>
+		</div>
+
+		<div id="footer">
+		  <img src="images/footImage.png">
+		  <p id="copyRight">(C)Kyushu University,School of Design.Philharmony Orchestra.All rights reserved<br>〒815-8540 福岡県福岡市南区塩原4-9-1　九州大学芸術工学部フィルハーモニー管弦楽団</p>
+		</div>
+  </body>
+</html>

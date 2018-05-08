@@ -1,0 +1,50 @@
+/*---   #concertsInThePast   ------------------------------*/
+#concertsInThePast {
+	width: 900px;
+	/*height: 1020px;*/
+	margin: 0 auto 100px auto;
+	position: relative;
+}
+
+#concertsInThePast h2{
+	font-size: 40px;
+	text-align: center;
+	margin: 30px 0;
+}
+
+#concertsInThePast h2 .color{
+	color: #ff7b4f;
+}
+
+#concertsInThePast h3{
+	font-size: 20px;
+	text-align: left;
+	margin: 30px 0;
+}
+
+#concertsInThePast ul{
+	font-size: 24px;
+	line-height: 48px;
+	list-style: none;
+	position: absolute;
+	left: 670px;
+}
+
+#concertsInThePast li{
+	color: #ff7b4f;
+}
+
+#concertsInThePast p{
+	font-size: 24px;
+}
+
+#concertsInThePast dt{
+	color: #ff7b4f;
+	font-size: 24px;
+	margin-top: 40px;
+	margin-bottom: 18px;
+}
+
+#concertsInThePast dd{
+	font-size: 20px;
+}
