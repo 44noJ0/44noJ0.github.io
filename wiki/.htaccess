@@ -1,6 +1,6 @@
 AuthType Basic
 AuthName "geiko_oke"
-AuthUserFile /home/users/2/main.jp-798585b836129d0d/web/public_html/wiki/.htpasswd
+AuthUserFile ./.htpasswd
 require valid-user
 <Files ~ "^.ht">
    deny from all
